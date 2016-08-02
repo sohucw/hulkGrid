@@ -1,0 +1,28 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "> 通过对目前负责的项目 (主要是数据可视化的展现) 自己总结了各类的表格 基本上所有表格的展现都包括了. * 传统的展现方式 * 固定列 * 固定行 * 树形 * 可编辑的行  可拖拽的行 * 过滤类的表格",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohucw/hulkGrid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohucw/hulkGrid/issues"
+  },
+  "homepage": "https://github.com/sohucw/hulkGrid#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0"
+  }
+}
